@@ -1,0 +1,9 @@
+{
+    "emmet.preferences": {
+    
+        "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+        "terminal.integrated.shellArgs.windows": ["/K", "C:\\Users\\MJM\\Anaconda3\\Scripts\\activate.bat C:\\Anaconda3"],
+        "python.condaPath": "C:\\Users\\MJM\\Anaconda3\\Scripts\\conda.exe"
+    },
+    "python.pythonPath": "C:\\Users\\MJM\\Anaconda3\\python.exe"
+}
