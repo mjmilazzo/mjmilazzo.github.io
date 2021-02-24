@@ -5,5 +5,6 @@
         "terminal.integrated.shellArgs.windows": ["/K", "C:\\Users\\MJM\\Anaconda3\\Scripts\\activate.bat C:\\Anaconda3"],
         "python.condaPath": "C:\\Users\\MJM\\Anaconda3\\Scripts\\conda.exe"
     },
-    "python.pythonPath": "C:\\Users\\MJM\\Anaconda3\\python.exe"
+    "python.pythonPath": "C:\\Users\\MJM\\Anaconda3\\envs\\py39\\python.exe",
+    "python.terminal.activateEnvironment": true,
 }
