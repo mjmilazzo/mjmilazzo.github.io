@@ -8,11 +8,13 @@ This is currently serving as my platform to learn several tools, including:
 
 Please reach out for further information about me or if you have comments on how this page can improve.
 
-# Now, Some Experiments
+## Now, some experiments
 
 As a mentor once told me:
 > Success in research
+
 > is resolving one problem
+
 > and finding the next.
 
 Tested in [Dillinger](https://dillinger.io/)
