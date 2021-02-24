@@ -1,2 +1,10 @@
-##This is a markdown file
-#Testing subheader
+#Welcome to my personal page!
+##This is currently serving as a platform 
+##to learn several tools, including:
+###-markdown
+###-vscode
+###-python
+###-html
+###-and more
+##Please reach out for further information about me
+##or if you have comments on how this page can improve.
