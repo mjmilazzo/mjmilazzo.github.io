@@ -1,0 +1,152 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+
+        
+            
+        
+    
+        
+
+        
+            
+        
+    
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0"  xml:lang="en-us"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+
+        
+
+        
+            <language>en-us</language>
+        
+
+        
+            <lastBuildDate>Tue, 11 Nov 2025 11:17:21 PST</lastBuildDate>
+        
+
+        
+            <link>//localhost:1313/tags/figures/</link>
+        
+
+        
+            <atom:link href="//localhost:1313/tags/figures/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/>
+        
+
+        
+            
+
+            <atom:link href="//localhost:1313/tags/figures/" hreflang="en-us" rel="alternate" type="text/html"/>
+        
+            
+
+            <atom:link href="//localhost:1313/tags/figures/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+        
+
+        
+
+        
+
+        
+            <title>Figures · Tags · Michael Milazzo</title>
+        
+
+        
+
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    
+
+                    
+
+                    
+                        <description><![CDATA[<div class=paige-shortcode-figure><div class="align-items-center d-flex float-start h-100 justify-content-center me-4"><figure class=mb-0><div class="d-flex justify-content-center text-center"></div></figure></div></div><p>Hi! I&rsquo;m Michael Milazzo, a 5th year Ph.D. candidate in the <a href=https://sites.google.com/berkeley.edu/goldstein-lab rel=external>Goldstein Group</a>
+at UC Berkeley.
+Prior to this, I worked at the California Air Resources Board and earned a M.S. from Virginia Tech under <a href=https://air.cee.vt.edu rel=external>Linsey Marr</a>
+.</p><p>My research focuses on characterizing anthropogenic emissions of organic compounds into the atmosphere and understanding their effects on secondary pollutant formation.</p><p>I am particularly interested in policy-relevant emissions that have traditionally been ignored, such as those from fires at the Wildland-Urban Interface.</p>]]></description>
+                    
+
+                    
+                        <guid isPermaLink="false">tag:localhost:1313,2025-11-11:/about/</guid>
+                    
+
+                    
+                        <link>//localhost:1313/about/</link>
+                    
+
+                    
+                        
+
+                        
+
+                        <atom:link href="//localhost:1313/about/" hreflang="en-us" rel="alternate" type="text/html"/>
+                    
+                        
+
+                        
+
+                        <atom:link href="//localhost:1313/about/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+                    
+
+                    
+
+                    
+                        <pubDate>Tue, 11 Nov 2025 11:17:21 PST</pubDate>
+                    
+
+                    
+                        <title>About Me</title>
+                    
+                </item>
+            
+        
+    </channel>
+</rss>
