@@ -1,7 +1,0 @@
-languageCode = 'en-us'
-title = 'Michael Milazzo'
-theme = 'ananke'
-[caches]
-	[caches.images]
-		dir = ':cacheDir/images'
-
