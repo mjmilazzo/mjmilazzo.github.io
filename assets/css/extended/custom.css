@@ -4,10 +4,9 @@
 }
 
 /* float figures */
-.post-content .figure.figure-left {
+.post-content .figure-left {
 	float: left;
-	width: fit-content;
-	margin: 0 1em 0.5em 0;
+	margin: 0 2em 0.5em 0;
 }
 
 /* clear float after section */

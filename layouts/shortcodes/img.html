@@ -1,0 +1,10 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $class := .Get "class" | default "" -}}
+{{- $width := .Get "width" -}}
+{{- $image := .Page.Resources.GetMatch $src -}}
+{{- $url := cond (ne $image nil) $image.RelPermalink $src -}}
+<img src="{{ $url }}"
+  {{- with $alt }} alt="{{ . }}"{{ end }}
+  {{- with $class }} class="{{ . }}"{{ end }}
+  {{- with $width }} style="width: {{ . }};"{{ end }}>

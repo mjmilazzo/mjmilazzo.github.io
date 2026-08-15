@@ -6,7 +6,7 @@ title = "About"
 
 # About 
 
-{{< figure src="profile.png" class="figure-left" width="40%" >}}
+{{< img src="profile.png" class="figure-left" width="30%" >}}
 
 Hi! I'm Michael Milazzo, a Ph.D. candidate in the [Goldstein Group](https://sites.google.com/berkeley.edu/goldstein-lab) at UC Berkeley. 
 I previously worked at the California Air Resources Board and earned a M.S. from Virginia Tech under [Linsey Marr](https://sites.google.com/vt.edu/air/).
