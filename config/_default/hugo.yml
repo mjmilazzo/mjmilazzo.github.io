@@ -128,7 +128,30 @@ menu:
       
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
+
 markup:
+  # https://gohugo.io/configuration/markup/
+  defaultMarkdownHandler: goldmark
+  
+  goldmark:
+    renderHooks: 
+      image: 
+        useEmbedded: fallback
+      link: 
+        useEmbedded: fallback
+    extensions:
+      extras:
+        subscript:
+          enable: true
+      strikethrough: false
+    parser:
+      wrapStandAloneImageWithinParagraph: false
+      attribute:
+        block: true
+        title: true
+    renderer:
+      unsafe: true
+  
   highlight:
     noClasses: false
     # anchorLineNos: true

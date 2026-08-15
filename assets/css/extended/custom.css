@@ -1,0 +1,16 @@
+/* widen text column from default 720px */
+:root {
+	--main-width: 1008px;
+}
+
+/* float figures */
+.post-content .figure.figure-left {
+	float: left;
+	width: fit-content;
+	margin: 0 1em 0.5em 0;
+}
+
+/* clear float after section */
+.clear-float {
+	clear: both;
+}
