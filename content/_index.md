@@ -12,7 +12,7 @@ Hi! I'm Michael Milazzo, a Ph.D. candidate in the [Goldstein Group](https://site
 I previously worked at the California Air Resources Board and earned a M.S. from Virginia Tech under [Linsey Marr](https://sites.google.com/vt.edu/air/).
 
   
-My research focuses on characterizing anthropogenic emissions of organic compounds into the atmosphere and understanding their effects on secondary pollutant formation.
+My research focuses on characterizing anthropogenic emissions of organic compounds and understanding their effects on atmospheric chemistry.
 
   
 I am particularly interested in policy-relevant emissions that have traditionally been understudied, such as those from fires at the Wildland-Urban Interface.
